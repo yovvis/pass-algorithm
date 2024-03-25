@@ -1,2 +1,2 @@
-# yovvis-algorithm
-多语言算法:v:
+# pass-algorithm
+算法通关
